@@ -1,4 +1,4 @@
-##Nmap scan report for _gateway (10.10.44.1)
+## Nmap scan report for _gateway (10.10.44.1)
 PORT     STATE SERVICE VERSION
 22/tcp   open  ssh     OpenSSH 10.0p2 Debian 7+deb13u4 (protocol 2.0)
 111/tcp  open  rpcbind 2-4 (RPC #100000)
@@ -6,14 +6,14 @@ PORT     STATE SERVICE VERSION
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 
-##Nmap scan report for 10.10.44.9
+## Nmap scan report for 10.10.44.9
 PORT     STATE SERVICE     VERSION
 22/tcp   open  ssh         OpenSSH 9.9 (protocol 2.0)
 9090/tcp open  zeus-admin?
 1 service unrecognized despite returning data
 
 
-##Nmap scan report for 10.10.44.20
+## Nmap scan report for 10.10.44.20
 PORT     STATE  SERVICE    VERSION
 22/tcp   open   ssh        OpenSSH 9.6p1 Ubuntu 3ubuntu13.16 (Ubuntu Linux; protocol 2.0)
 80/tcp   open   http       nginx 1.24.0 (Ubuntu)
@@ -23,7 +23,7 @@ PORT     STATE  SERVICE    VERSION
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 
-##réseau complet
+## réseau complet
 Nmap scan report for _gateway (10.10.44.1)
 Host is up (0.00078s latency).
 Not shown: 997 closed tcp ports (conn-refused)
