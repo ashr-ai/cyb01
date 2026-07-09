@@ -30,7 +30,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 
 ## réseau complet
-Nmap scan report for _gateway (10.10.44.1)<br>
+**Nmap scan report for _gateway (10.10.44.1)**<br>
 Host is up (0.00078s latency).<br>
 Not shown: 997 closed tcp ports (conn-refused)<br>
 PORT     STATE SERVICE VERSION<br>
@@ -39,7 +39,7 @@ PORT     STATE SERVICE VERSION<br>
 3128/tcp open  http    Proxmox Virtual Environment REST API 3.0<br>
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
-Nmap scan report for aj-Standard-PC-i440FX-PIIX-1996 (10.10.44.2)<br>
+**Nmap scan report for aj-Standard-PC-i440FX-PIIX-1996 (10.10.44.2)**<br>
 Host is up (0.00018s latency).<br>
 Not shown: 998 closed tcp ports (conn-refused)<br>
 PORT     STATE SERVICE       VERSION<br>
@@ -47,7 +47,7 @@ PORT     STATE SERVICE       VERSION<br>
 3389/tcp open  ms-wbt-server Microsoft Terminal Service<br>
 Service Info: OSs: Linux, Windows; CPE: cpe:/o:linux:linux_kernel, cpe:/o:microsoft:windows
 
-Nmap scan report for 10.10.44.20<br>
+**Nmap scan report for 10.10.44.20**<br>
 Host is up (0.00052s latency).<br>
 Not shown: 995 filtered tcp ports (no-response)<br>
 PORT     STATE  SERVICE    VERSION<br>
@@ -58,7 +58,7 @@ PORT     STATE  SERVICE    VERSION<br>
 8080/tcp closed http-proxy<br>
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
-Nmap scan report for 10.10.44.99<br>
+**Nmap scan report for 10.10.44.99**<br>
 Host is up (0.00085s latency).<br>
 Not shown: 999 closed tcp ports (conn-refused)<br>
 PORT   STATE SERVICE VERSION<br>
